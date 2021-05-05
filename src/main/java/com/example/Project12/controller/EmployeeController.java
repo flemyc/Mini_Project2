@@ -1,12 +1,9 @@
 package com.example.Project12.controller;
 
-import com.example.Project12.dto.Employee;
+import com.example.Project12.model.Employee;
 import com.example.Project12.service.IEmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
 import java.util.List;
 
 @RestController

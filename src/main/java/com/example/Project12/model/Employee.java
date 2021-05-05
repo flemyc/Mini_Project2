@@ -1,4 +1,4 @@
-package com.example.Project12.dto;
+package com.example.Project12.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

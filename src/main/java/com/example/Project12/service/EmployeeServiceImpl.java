@@ -1,6 +1,6 @@
 package com.example.Project12.service;
 
-import com.example.Project12.dto.Employee;
+import com.example.Project12.model.Employee;
 import com.example.Project12.repository.EmployeeRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
